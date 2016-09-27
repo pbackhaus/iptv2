@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,DE: ProSieben HD
+#EXTINF:-1, ProSieben HD
 http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6001.ts
 #EXTINF:-1, TRT 1 HD
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
