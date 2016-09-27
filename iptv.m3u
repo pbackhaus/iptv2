@@ -23,18 +23,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
 #EXTINF:-1,TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TR: ATV HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1610.ts
 #EXTINF:-1, ATV HD
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:0,Kanal D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-#EXTINF:0,Kanal D
-http://188.138.9.246/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,Show Tv Yedek
-http://89.163.148.31:8000/live/master99/master99/5963.ts
-#EXTINF:-1,Show TV HD
-https://89.163.148.31:8000/live/master99/master99/5941.ts
-#EXTINF:-1, SHOW TV HD
-http://mn-i.mncdn.com/showtv/smil:showtv.smil/playlist.m3u8
 #EXTINF:-0,EuroStar
 http://149.255.152.69/hls-live/livepkgr/startv/startv/startv.m3u8
 #EXTINF:-1,Fox Tv HD
@@ -133,4 +127,59 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:-1,YOL TV
 rtmp://178.254.20.205:2100/yol/yolstream.flv
-
+#EXTINF:-1,DE: Sport 1 HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6014.ts
+#EXTINF:-1,DE: Sky Sport News
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5986.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5983.ts
+#EXTINF:-1,DE: Sky Emotion
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5984.ts
+#EXTINF:-1,DE: Sky Comedy
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5985.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5987.ts
+#EXTINF:-1,DE: SIXX HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5993.ts
+#EXTINF:-1,DE: Sat.1 HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5994.ts
+#EXTINF:-1,DE: RTL Passion
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5995.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5996.ts
+#EXTINF:-1,DE: RTL HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5997.ts
+#EXTINF:-1,DE: RTL Crime
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5998.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5999.ts
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6000.ts
+#EXTINF:-1,DE: ProSieben HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6001.ts
+#EXTINF:-1,DE: ProSieben FUN HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6002.ts
+#EXTINF:-1,DE: NDR HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6005.ts
+#EXTINF:-1,DE: NatGeo HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6006.ts
+#EXTINF:-1,DE: N24 HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6007.ts
+#EXTINF:-1,DE: n-tv HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6008.ts
+#EXTINF:-1,DE: Motorvision TV
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6009.ts
+#EXTINF:-1,DE: KIKA HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6010.ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6011.ts
+#EXTINF:-1,DE: HR HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6012.ts
+#EXTINF:-1,DE: Eurosport HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6015.ts
+#EXTINF:-1,DE: Disney HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6016.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6017.ts
+#EXTINF:-1,DE: Das Erste HD
+http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6018.ts
