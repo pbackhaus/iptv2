@@ -25,8 +25,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:0,Kanal D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,KANAL D HD
+#EXTINF:0,KANAL D HD
 http://media.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,KANAL D HD
+http://www.ipsat.me:8000/live/emad/emad/2799.ts
 #EXTINF:0,SHOW TüRK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/master.m3u8
 #EXTINF:0,SHOW MAX
