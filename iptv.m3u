@@ -29,6 +29,8 @@ http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/master.m3u8
 #EXTINF:0,SHOW MAX
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:-1,EUROSTAR 
+rtmp://78.34.76.228:1935/live/eurostar
 #EXTINF:-1,TR:STAR-TVv
 http://5.9.118.115:8000/live/harry/Harry/2886.ts
 #EXTINF:-1,TR:Star_TVx
